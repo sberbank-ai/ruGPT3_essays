@@ -15,20 +15,24 @@
 
 ### Данные
 [essays.tar.gz](https://drive.google.com/file/d/1LTRE3JE1T3tXXv_TavWXIUHXp0w8PD24/view?usp=sharing)
- - Русский язык - сочинение по тексту
- - Литература - сочинение по теме
- - Обществознание - сочинение по теме
- - История - сочинение по теме
+(данные по 4 предметам и з открытых источников)
+
+ - Русский язык - сочинение по тексту (задание 27)
+ - Литература - сочинение по теме (задание 17)
+ - Обществознание - сочинение по теме (задание 29)
+ - История - сочинение по теме (задание 25)
+
+Участникам разрешается использовать любые другие текстовые данные для дообучения
 
 ### Метрики
 Средний балл по всем сочинениям теста по критериям
- - Критерии для русского [ссылка](https://ctege.info/teoriya-oge-po-russkomu-yazyiku/kriterii-oge-2020-po-russkomu-yazyiku.html)
- - Критерии обществознание [ссылка](https://ctege.info/teoriya-oge-po-obschestvoznaniyu/kriterii-oge-2020-po-obschestvoznaniyu.html)
- - Критерии история [ссылка](https://ctege.info/teoriya-oge-po-istorii/kriterii-oge-2020-po-istorii.html)
- - Критерии литература [ссылка]( https//ctege.info/teoriya-oge-po-literature/kriterii-oge-2020-po-literature.html)
+ - Критерии для русского [ссылка](https://ctege.info/sochinenie-ege/kriterii-otsenivaniya-sochineniya-na-ege-2021.html)
+ - Критерии обществознание [ссылка](https://ctege.info/esse-po-obschestvoznaniyu/kriterii-otsenivaniya-esse-na-ege-po-obschestvoznaniyu.html)
+ - Критерии история [ссылка](https://4ege.ru/istoriya/55436-trebovaniya-i-kriterii-proverki-istoricheskogo-sochineniya.html)
+ - Критерии литература [ссылка](https://4ege.ru/literatura/56301-kriterii-dlya-vseh-sochineniy-v-ege-po-literature.html)
 
 ### Baseline
-ruGPT3 large (760M patameters)
+ruGPT3 large (760M parameters)
 
 finetuned on essays
 
