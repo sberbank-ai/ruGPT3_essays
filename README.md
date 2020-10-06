@@ -1,6 +1,8 @@
 # AI Journey Junior 
 ## написание эссе по 4 предметам с помощью ruGPT3
 
+[https://ai-journey.ru/contest](https://ai-journey.ru/contest)
+
 Соревнование NLP-моделей, автоматически пишущих эссе по тексту/ на заданную тему по предметам:
  - русский язык
  - литература
@@ -13,17 +15,23 @@
 
 ### Данные
 [essays.tar.gz](https://drive.google.com/file/d/1LTRE3JE1T3tXXv_TavWXIUHXp0w8PD24/view?usp=sharing)
- - Русский язык
- - Литература
- - Обществознание
- - История
+ - Русский язык - сочинение по тексту
+ - Литература - сочинение по теме
+ - Обществознание - сочинение по теме
+ - История - сочинение по теме
 
 ### Метрики
-
+Средний балл по всем сочинениям теста по критериям
+ - Критерии для русского [ссылка](https://ctege.info/teoriya-oge-po-russkomu-yazyiku/kriterii-oge-2020-po-russkomu-yazyiku.html)
+ - Критерии обществознание [ссылка](https://ctege.info/teoriya-oge-po-obschestvoznaniyu/kriterii-oge-2020-po-obschestvoznaniyu.html)
+ - Критерии история [ссылка](https://ctege.info/teoriya-oge-po-istorii/kriterii-oge-2020-po-istorii.html)
+ - Критерии литература [ссылка]( https//ctege.info/teoriya-oge-po-literature/kriterii-oge-2020-po-literature.html)
 
 ### Baseline
-ruGPT3 large
+ruGPT3 large (760M patameters)
+
 finetuned on essays
+
 [ссылка на скачивание]()
 
 Пример работы бейслайна:
