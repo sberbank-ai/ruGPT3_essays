@@ -32,11 +32,11 @@
  - Критерии литература [ссылка](https://4ege.ru/literatura/56301-kriterii-dlya-vseh-sochineniy-v-ege-po-literature.html)
 
 ### Baseline
-ruGPT3 large (760M parameters)
+ruGPT large (760M parameters)
 
 finetuned on essays
 
-[ссылка на скачивание]()
+[репозиторий с моделями ruGPT](https://github.com/sberbank-ai/ru-gpts)
 
 Пример работы бейслайна:
 ```
