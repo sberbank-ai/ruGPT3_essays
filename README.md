@@ -26,10 +26,10 @@
 
 ### Метрики
 Средний балл по всем сочинениям теста по критериям
- - Критерии для русского [ссылка](https://ctege.info/sochinenie-ege/kriterii-otsenivaniya-sochineniya-na-ege-2021.html)
- - Критерии обществознание [ссылка](https://ctege.info/esse-po-obschestvoznaniyu/kriterii-otsenivaniya-esse-na-ege-po-obschestvoznaniyu.html)
- - Критерии история [ссылка](https://4ege.ru/istoriya/55436-trebovaniya-i-kriterii-proverki-istoricheskogo-sochineniya.html)
- - Критерии литература [ссылка](https://4ege.ru/literatura/56301-kriterii-dlya-vseh-sochineniy-v-ege-po-literature.html)
+ - Критерии для русского [ссылка](https://ctege.info/sochinenie-ege/kriterii-otsenivaniya-sochineniya-na-ege-2021.html) [Документация ФИПИ 2021](https://fipi.ru/ege/demoversii-specifikacii-kodifikatory#!/tab/151883967-1)
+ - Критерии обществознание [ссылка](https://ctege.info/esse-po-obschestvoznaniyu/kriterii-otsenivaniya-esse-na-ege-po-obschestvoznaniyu.html)  [Документация ФИПИ 2021](https://fipi.ru/ege/demoversii-specifikacii-kodifikatory#!/tab/151883967-9)
+ - Критерии история [ссылка](https://4ege.ru/istoriya/55436-trebovaniya-i-kriterii-proverki-istoricheskogo-sochineniya.html)  [Документация ФИПИ 2021](https://fipi.ru/ege/demoversii-specifikacii-kodifikatory#!/tab/151883967-7)
+ - Критерии литература [ссылка](https://4ege.ru/literatura/56301-kriterii-dlya-vseh-sochineniy-v-ege-po-literature.html) [Документация ФИПИ 2021](https://fipi.ru/ege/demoversii-specifikacii-kodifikatory#!/tab/151883967-10)
 
 ### Baseline
 ruGPT large (760M parameters)
