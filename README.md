@@ -1,6 +1,8 @@
 # AI Journey Junior 
 ## написание эссе по 4 предметам с помощью ruGPT3
 
+## Baseline  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1h6r6Qg9xwyIzz6-FXgB9tIjAzce0gc2d?usp=sharing)
+
 [https://ai-journey.ru/contest](https://ai-journey.ru/contest)
 
 Соревнование NLP-моделей, автоматически пишущих эссе по тексту/ на заданную тему по предметам:
