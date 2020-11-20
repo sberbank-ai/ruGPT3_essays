@@ -1,6 +1,11 @@
 # AI Journey Junior 
 ## написание эссе по 4 предметам с помощью ruGPT3
 
+## Тестовые темы доступны / Test themes are now public!
+
+Найдите их в папке [test](https://github.com/sberbank-ai/ruGPT3_essays/tree/main/test)
+
+
 ## Baseline  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1h6r6Qg9xwyIzz6-FXgB9tIjAzce0gc2d?usp=sharing)
 
 [https://ai-journey.ru/contest](https://ai-journey.ru/contest)
